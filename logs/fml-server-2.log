@@ -1,0 +1,705 @@
+[08:42:14] [main/INFO] [FML/]: Forge Mod Loader version 7.2.217.1147 for Minecraft 1.7.2 loading
+[08:42:15] [main/INFO] [FML/]: Java is OpenJDK 64-Bit Server VM, version 1.7.0_141, running on Linux:amd64:4.10.4-1.el7.elrepo.x86_64, installed at /usr/lib/jvm/java-1.7.0-openjdk-1.7.0.141-2.6.10.1.el7_3.x86_64/jre
+[08:42:15] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[08:42:15] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[08:42:15] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[08:42:15] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[08:42:15] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:42:16] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:42:16] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:42:16] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[08:42:18] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[08:42:22] [Server thread/INFO] [MinecraftForge/]: Attempting early MinecraftForge initialization
+[08:42:22] [Server thread/INFO] [FML/]: MinecraftForge v10.12.2.1147 Initialized
+[08:42:22] [Server thread/INFO] [FML/]: Replaced 182 ore recipies
+[08:42:22] [Server thread/INFO] [MinecraftForge/]: Completed early MinecraftForge initialization
+[08:42:22] [Server thread/INFO] [FML/]: Searching /home/ace/minecraft_mcpc/mods for mods
+[08:42:22] [Server thread/INFO] [FML/]: Also searching /home/ace/minecraft_mcpc/mods/1.7.2 for mods
+[08:42:23] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 5 mods to load
+[08:42:23] [Server thread/INFO] [FML/]: Processing ObjectHolder annotations
+[08:42:23] [Server thread/INFO] [FML/]: Found 341 ObjectHolder annotations
+[08:42:23] [Server thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
+[08:42:24] [Server thread/INFO] [FML/]: Applying holder lookups
+[08:42:24] [Server thread/INFO] [FML/]: Holder lookups applied
+[08:42:24] [Server thread/INFO] [Minecraft/]: This server is running Cauldron-MCPC-Plus version git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98 (MC: 1.7.2) (Implementing API version 1.7.2-R0.4-SNAPSHOT)
+[08:42:24] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
+[08:42:24] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[08:42:25] [Server thread/INFO] [THAUMCRAFT/Thaumcraft]: Adding entities to MFR safari net blacklist.
+[08:42:25] [Server thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 5 mods
+[08:42:25] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
+[08:42:25] [Server thread/INFO] [FML/]: Applying holder lookups
+[08:42:25] [Server thread/INFO] [FML/]: Holder lookups applied
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKFLUXGOO with ID 165.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKFLUXGAS with ID 166.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKCUSTOMORE with ID 167.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKMAGICALLOG with ID 168.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKMAGICALLEAVES with ID 169.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKCUSTOMPLANT with ID 176.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKTAINT with ID 177.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKTAINTFIBRES with ID 178.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKCOSMETICOPAQUE with ID 179.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKCOSMETICSOLID with ID 180.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKCRYSTAL with ID 181.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKTUBE with ID 182.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKMETALDEVICE with ID 183.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKWOODENDEVICE with ID 184.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKSTONEDEVICE with ID 185.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKMIRROR with ID 186.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKTABLE with ID 187.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKCHESTHUNGRY with ID 188.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKARCANEDOOR with ID 189.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKLIFTER with ID 190.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKMAGICBOX with ID 191.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKJAR with ID 192.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKCANDLE with ID 193.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKAIRY with ID 194.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKMANAPOD with ID 195.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKARCANEFURNACE with ID 196.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKWARDED with ID 197.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKHOLE with ID 198.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material BAUBLES_RING with ID 4096.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_WANDCASTING with ID 4097.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_WANDCAP with ID 4098.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_WANDROD with ID 4099.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_FOCUSPOUCH with ID 4100.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_FOCUSFIRE with ID 4101.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_FOCUSSHOCK with ID 4102.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_FOCUSHELLBAT with ID 4103.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_FOCUSFROST with ID 4104.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_FOCUSTRADE with ID 4105.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_FOCUSEXCAVATION with ID 4106.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_FOCUSPORTABLEHOLE with ID 4107.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_FOCUSPECH with ID 4108.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_FOCUSWARDING with ID 4109.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_FOCUSPRIMAL with ID 4110.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMESSENCE with ID 4111.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMMANABEAN with ID 4112.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMWISPESSENCE with ID 4113.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMRESOURCE with ID 4114.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMSHARD with ID 4115.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMRESEARCHNOTES with ID 4116.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMINKWELL with ID 4117.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMTHAUMONOMICON with ID 4118.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMTHAUMOMETER with ID 4119.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMGOGGLES with ID 4120.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMHELMETTHAUMIUM with ID 4121.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMCHESTPLATETHAUMIUM with ID 4122.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMLEGGINGSTHAUMIUM with ID 4123.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMBOOTSTHAUMIUM with ID 4124.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMSHOVELTHAUMIUM with ID 4125.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMPICKTHAUMIUM with ID 4126.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMAXETHAUMIUM with ID 4127.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMSWORDTHAUMIUM with ID 4128.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMHOETHAUMIUM with ID 4129.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMARCANEDOOR with ID 4130.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMNUGGET with ID 4131.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_BOOTSTRAVELLER with ID 4132.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMNUGGETCHICKEN with ID 4133.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMNUGGETBEEF with ID 4134.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMNUGGETPORK with ID 4135.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMNUGGETFISH with ID 4136.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_TRIPLEMEATTREAT with ID 4137.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMSWORDELEMENTAL with ID 4138.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMSHOVELELEMENTAL with ID 4139.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMPICKAXEELEMENTAL with ID 4140.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMAXEELEMENTAL with ID 4141.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMHOEELEMENTAL with ID 4142.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMCHESTPLATEROBE with ID 4143.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMLEGGINGSROBE with ID 4144.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMBOOTSROBE with ID 4145.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ARCANEDOORKEY with ID 4146.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_HANDMIRROR with ID 4147.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_HOVERHARNESS with ID 4148.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_BLOCKJARFILLEDITEM with ID 4149.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_BLOCKJARNODEITEM with ID 4150.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_TRUNKSPAWNER with ID 4151.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMGOLEMPLACER with ID 4152.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMGOLEMCORE with ID 4153.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMGOLEMUPGRADE with ID 4154.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_GOLEMBELL with ID 4155.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMGOLEMDECORATION with ID 4156.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMBOWBONE with ID 4157.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_PRIMALARROW with ID 4158.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMRESONATOR with ID 4159.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMBAUBLEBLANKS with ID 4160.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMAMULETRUNIC with ID 4161.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMRINGRUNIC with ID 4162.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMGIRDLERUNIC with ID 4163.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMAMULETVIS with ID 4164.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMGIRDLEHOVER with ID 4165.
+[08:42:26] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMSPAWNEREGG with ID 4166.
+[08:42:27] [Server thread/INFO] [/]: Mapping loaded 13 packages, 9950 classes, 33878 fields, 68194 methods, flags 3ff6
+[08:42:27] [Server thread/INFO] [/]: Loaded inheritance map of 883 classes
+[08:42:29] [Server thread/ERROR] [Minecraft/]: Could not load 'plugins/【禁止物品】BanItem.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: java.lang.IllegalArgumentException: Plugin already initialized!
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:147) ~[JavaPluginLoader.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:314) ~[SimplePluginManager.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:236) [SimplePluginManager.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.loadPlugins(CraftServer.java:300) [CraftServer.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at net.minecraft.world.storage.SaveHandler.initBukkitData(SaveHandler.java:438) [axc.class:?]
+	at net.minecraft.world.storage.SaveHandler.func_75757_d(SaveHandler.java:136) [axc.class:?]
+	at net.minecraft.world.World.<init>(World.java:369) [afn.class:?]
+	at net.minecraft.world.WorldServer.<init>(WorldServer.java:152) [mj.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:336) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:309) [lj.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:607) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.7.0_141]
+Caused by: java.lang.IllegalArgumentException: Plugin already initialized!
+	at org.bukkit.plugin.java.PluginClassLoader.initialize(PluginClassLoader.java:484) ~[PluginClassLoader.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.java.JavaPlugin.<init>(JavaPlugin.java:59) ~[JavaPlugin.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at com.abcalvin.BanItem.PlayerListener.<init>(PlayerListener.java:19) ~[?:?]
+	at com.abcalvin.BanItem.main.<init>(main.java:20) ~[?:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.7.0_141]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57) ~[?:1.7.0_141]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.7.0_141]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526) ~[?:1.7.0_141]
+	at java.lang.Class.newInstance(Class.java:383) ~[?:1.7.0_141]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:203) ~[PluginClassLoader.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:143) ~[JavaPluginLoader.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	... 11 more
+Caused by: java.lang.IllegalStateException: Initial initialization
+	at org.bukkit.plugin.java.PluginClassLoader.initialize(PluginClassLoader.java:487) ~[PluginClassLoader.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.java.JavaPlugin.<init>(JavaPlugin.java:59) ~[JavaPlugin.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at com.abcalvin.BanItem.main.<init>(main.java:18) ~[?:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.7.0_141]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57) ~[?:1.7.0_141]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.7.0_141]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526) ~[?:1.7.0_141]
+	at java.lang.Class.newInstance(Class.java:383) ~[?:1.7.0_141]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:203) ~[PluginClassLoader.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:143) ~[JavaPluginLoader.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	... 11 more
+[08:42:29] [Server thread/INFO] [org.anjocaido.groupmanager.GroupManager/]: [GroupManager] Loading GroupManager v2.0 (2.12.1) (Phoenix)
+[08:42:29] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] Loading WorldEdit v5.5.8
+[08:42:29] [Server thread/INFO] [com.iCo6.iConomy/]: [iConomy] Loading iConomy v7.0
+[08:42:29] [Server thread/INFO] [com.jca2323.AutoPortForward.AutoPortForwardMain/]: [AutoPortForward] Loading AutoPortForward v4.0
+[08:42:29] [Server thread/INFO] [com.tigerhix.signs.Main/]: [TigerSigns] Loading TigerSigns v1.0.0
+[08:42:29] [Server thread/INFO] [org.yi.acru.bukkit.Lockette.Lockette/]: [Lockette] Loading Lockette v1.7.12
+[08:42:29] [Server thread/INFO] [net.milkbowl.vault.Vault/]: [Vault] Loading Vault v1.2.27-b349
+[08:42:29] [Server thread/INFO] [com.worldcretornica.plotme.PlotMe/]: [PlotMe] Loading PlotMe v0.13b
+[08:42:29] [Server thread/INFO] [com.gmail.nossr50.mcMMO/]: [mcMMO] Loading mcMMO v1.5.00-b3547
+[08:42:29] [Server thread/INFO] [me.itsatacoshop247.TreeAssist.TreeAssist/]: [TreeAssist] Loading TreeAssist v5.8.89
+[08:42:29] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Loading Essentials v2.12.2
+[08:42:29] [Server thread/INFO] [com.bekvon.bukkit.residence.ResidenceCommandListener/]: [Residence] Loading Residence v2.6.6.6
+[08:42:29] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Loading QuickShop v4.4
+[08:42:29] [Server thread/INFO] [com.earth2me.essentials.protect.EssentialsProtect/]: [EssentialsProtect] Loading EssentialsProtect v2.12.2
+[08:42:29] [Server thread/INFO] [uk.org.whoami.authme.AuthMe/]: [AuthMe] Loading AuthMe v2.7.8
+[08:42:29] [Server thread/INFO] [com.earth2me.essentials.spawn.EssentialsSpawn/]: [EssentialsSpawn] Loading EssentialsSpawn v2.12.2
+[08:42:29] [Server thread/INFO] [com.earth2me.essentials.chat.EssentialsChat/]: [EssentialsChat] Loading EssentialsChat v2.12.2
+[08:42:29] [Server thread/INFO] [com.earth2me.essentials.antibuild.EssentialsAntiBuild/]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.12.2
+[08:42:29] [Server thread/INFO] [/]: Adding biome mapping 192 Tainted Land at BiomeBase[192]
+[08:42:29] [Server thread/INFO] [/]: Adding biome mapping 193 Magical Forest at BiomeBase[193]
+[08:42:29] [Server thread/INFO] [/]: Adding biome mapping 194 Eerie at BiomeBase[194]
+[08:42:29] [Server thread/INFO] [net.milkbowl.vault.Vault/]: [Vault] Enabling Vault v1.2.27-b349
+[08:42:29] [Server thread/INFO] [Minecraft/]: [Vault][Economy] Essentials Economy found: Waiting
+[08:42:29] [Server thread/WARN] [Minecraft/]: iConomy - If you are using Flatfile storage be aware that versions 6, 7 and 8 have a CRITICAL bug which can wipe ALL iconomy data.
+[08:42:29] [Server thread/WARN] [Minecraft/]: if you're using Votifier, or any other plugin which handles economy data in a threaded manner your server is at risk!
+[08:42:29] [Server thread/WARN] [Minecraft/]: it is highly suggested to use SQL with iCo6 or to use an alternative economy plugin!
+[08:42:29] [Server thread/INFO] [Minecraft/]: [Vault][Economy] iConomy 6 found: Waiting
+[08:42:30] [Server thread/INFO] [Minecraft/]: [Vault][Permission] GroupManager found: Waiting
+[08:42:30] [Server thread/INFO] [Minecraft/]: [Vault][Permission] SuperPermissions loaded as backup permission system.
+[08:42:30] [Server thread/INFO] [Minecraft/]: [Vault][Chat] GroupManager found: Waiting
+[08:42:30] [Server thread/INFO] [Minecraft/]: [Vault] Enabled Version 1.2.27-b349
+[08:42:30] [Server thread/INFO] [com.worldcretornica.plotme.PlotMe/]: [PlotMe] Enabling PlotMe v0.13b
+[08:42:30] [Server thread/INFO] [Minecraft/]: §9[PlotMe] §r 0 plots loaded
+[08:42:30] [Server thread/INFO] [com.gmail.nossr50.mcMMO/]: [mcMMO] Enabling mcMMO v1.5.00-b3547
+[08:42:32] [Server thread/INFO] [FML/]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@10fcce18)
+[08:42:32] [Server thread/INFO] [FML/]: Loading dimension 1 (DIM1) (net.minecraft.server.dedicated.DedicatedServer@10fcce18)
+[08:42:32] [Server thread/INFO] [FML/]: Loading dimension -1 (DIM-1) (net.minecraft.server.dedicated.DedicatedServer@10fcce18)
+[08:42:33] [Server thread/INFO] [org.anjocaido.groupmanager.GroupManager/]: [GroupManager] Enabling GroupManager v2.0 (2.12.1) (Phoenix)
+[08:42:33] [Server thread/INFO] [/]: GroupManager - INFO - World Found: world
+[08:42:33] [Server thread/INFO] [/]: GroupManager - INFO - Superperms support enabled.
+[08:42:33] [Server thread/INFO] [/]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[08:42:33] [Server thread/INFO] [/]: GroupManager - INFO - Backups will be retained for 24 hours!
+[08:42:33] [Server thread/INFO] [/]: GroupManager version 2.0 (2.12.1) (Phoenix) is enabled!
+[08:42:33] [Server thread/INFO] [Minecraft/]: [Vault][Permission] GroupManager hooked.
+[08:42:33] [Server thread/INFO] [Minecraft/]: [Vault][Chat] GroupManager - Chat hooked.
+[08:42:33] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] Enabling WorldEdit v5.5.8
+[08:42:33] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[08:42:34] [Server thread/INFO] [com.iCo6.iConomy/]: [iConomy] Enabling iConomy v7.0
+[08:42:34] [Server thread/INFO] [/]: [iConomy - April Fools] Enabled (22 ms)
+[08:42:34] [Server thread/INFO] [/]: [iConomy] Hello, I'm Nijikokun. Yes, this is an April Fools joke, but '/money top' was fixed! Enjoy :) - Rare Version!
+[08:42:34] [Server thread/INFO] [Minecraft/]: [Vault][Economy] iConomy 7 hooked.
+[08:42:34] [Server thread/INFO] [com.jca2323.AutoPortForward.AutoPortForwardMain/]: [AutoPortForward] Enabling AutoPortForward v4.0
+[08:42:34] [Server thread/INFO] [Minecraft/]: [AutoPortForward] AutoPortForward by jca2323 version 1.4 loaded
+[08:42:34] [Server thread/INFO] [Minecraft/]: [AutoPortForward] Forwarding port: 25565
+[08:42:34] [Thread-10/INFO] [/]: [iConomy - April Fools] Purged accounts with default balance.
+[08:42:40] [Server thread/WARN] [Minecraft/]: [AutoPortForward] Failed to find a device, disabling.
+[08:42:40] [Server thread/INFO] [com.jca2323.AutoPortForward.AutoPortForwardMain/]: [AutoPortForward] Disabling AutoPortForward v4.0
+[08:42:40] [Server thread/INFO] [Minecraft/]: [AutoPortForward] AutoPortForward disabled.
+[08:42:40] [Server thread/INFO] [com.tigerhix.signs.Main/]: [TigerSigns] Enabling TigerSigns v1.0.0
+[08:42:40] [Server thread/INFO] [org.yi.acru.bukkit.Lockette.Lockette/]: [Lockette] Enabling Lockette v1.7.12
+[08:42:40] [Server thread/INFO] [Minecraft/]: [Lockette] Version 1.7.12 is being enabled!  Yay!  (Core version 1.3.7)
+[08:42:40] [Server thread/WARN] [Minecraft/]: [Lockette] Craftbukkit build unrecognized, please be sure you have build [2771] or greater.
+[08:42:40] [Server thread/INFO] [Minecraft/]: [Lockette] Custom lockable block list: [116, 84, 57, 145, 154]
+[08:42:40] [Server thread/INFO] [Minecraft/]: [Lockette] Ignoring linked plugins: [mcMMO]
+[08:42:40] [Server thread/INFO] [Minecraft/]: [Lockette] Loading strings file for English by Acru
+[08:42:40] [Server thread/INFO] [Minecraft/]: [Lockette] Enabled link to plugin GroupManager for Groups, version 2.0 (2.12.1) (Phoenix)
+[08:42:40] [Server thread/INFO] [Minecraft/]: [Lockette] Enabled link to plugin mcMMO for Groups, version 1.5.00-b3547
+[08:42:40] [Server thread/INFO] [Minecraft/]: [Lockette] Using ops file for admin permissions.
+[08:42:40] [Server thread/INFO] [Minecraft/]: [Lockette] Ready to protect your containers.
+[08:42:40] [Server thread/INFO] [me.itsatacoshop247.TreeAssist.TreeAssist/]: [TreeAssist] Enabling TreeAssist v5.8.89
+[08:42:40] [Server thread/INFO] [me.itsatacoshop247.TreeAssist.TreeAssist/]: [TreeAssist] debugging: off
+[08:42:40] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Enabling Essentials v2.12.2
+[08:42:40] [Server thread/INFO] [Minecraft/]: Bukkit version format changed. Version not checked.
+[08:42:40] [Server thread/INFO] [Minecraft/]: git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98 (MC: 1.7.2)
+[08:42:40] [Server thread/INFO] [Minecraft/]: 1.7.2-R0.4-SNAPSHOT
+[08:42:40] [Server thread/INFO] [Minecraft/]: Using locale zh
+[08:42:40] [Server thread/INFO] [Minecraft/]: Using locale zh
+[08:42:40] [Server thread/INFO] [Minecraft/]: [Vault][Economy] Essentials Economy hooked.
+[08:42:40] [Server thread/INFO] [Minecraft/]: Essentials: Using GroupManager based permissions.
+[08:42:40] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Payment method found (Vault - Economy: iConomy 7 version: 1.2.27-b349)
+[08:42:40] [Server thread/INFO] [com.bekvon.bukkit.residence.ResidenceCommandListener/]: [Residence] Enabling Residence v2.6.6.6
+[08:42:40] [Server thread/INFO] [Minecraft/]: [Residence] Found Vault using permissions plugin:GroupManager
+[08:42:41] [Server thread/INFO] [/]: [Residence] Scanning for economy systems...
+[08:42:41] [Server thread/INFO] [/]: [Residence] Found Vault using economy system: iConomy 7
+[08:42:41] [Server thread/INFO] [Minecraft/]: [Residence] Found WorldEdit
+[08:42:41] [Server thread/INFO] [Minecraft/]: [Residence] Enabled! Version 2.6.6.6 by bekvon
+[08:42:41] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Enabling QuickShop v4.4
+[08:42:41] [Server thread/ERROR] [Minecraft/]: Cannot load plugins/QuickShop/messages.yml
+org.bukkit.configuration.InvalidConfigurationException: unacceptable character '�' (0xFFFD) special characters are not allowed
+in "<string>", position 173
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55) ~[YamlConfiguration.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:149) ~[FileConfiguration.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:114) ~[FileConfiguration.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(YamlConfiguration.java:176) [YamlConfiguration.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.maxgamer.QuickShop.Util.MsgUtil.loadCfgMessages(MsgUtil.java:43) [【快捷商店】QuickShop.jar:?]
+	at org.maxgamer.QuickShop.QuickShop.reloadConfig(QuickShop.java:344) [【快捷商店】QuickShop.jar:?]
+	at org.maxgamer.QuickShop.QuickShop.onEnable(QuickShop.java:107) [【快捷商店】QuickShop.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:250) [JavaPlugin.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:360) [JavaPluginLoader.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:390) [SimplePluginManager.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.loadPlugin(CraftServer.java:393) [CraftServer.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.enablePlugins(CraftServer.java:329) [CraftServer.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at net.minecraft.server.MinecraftServer.func_71243_i(MinecraftServer.java:499) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71222_d(MinecraftServer.java:475) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:418) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:309) [lj.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:607) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.7.0_141]
+Caused by: org.yaml.snakeyaml.reader.ReaderException: special characters are not allowed
+	at org.yaml.snakeyaml.reader.StreamReader.checkPrintable(StreamReader.java:70) ~[StreamReader.class:?]
+	at org.yaml.snakeyaml.reader.StreamReader.<init>(StreamReader.java:50) ~[StreamReader.class:?]
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:399) ~[Yaml.class:?]
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:53) ~[YamlConfiguration.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	... 17 more
+[08:42:41] [Server thread/ERROR] [Minecraft/]: Cannot load configuration from stream
+org.bukkit.configuration.InvalidConfigurationException: unacceptable character '�' (0xFFFD) special characters are not allowed
+in "<string>", position 173
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55) ~[YamlConfiguration.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:149) ~[FileConfiguration.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(YamlConfiguration.java:204) [YamlConfiguration.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.maxgamer.QuickShop.Util.MsgUtil.loadCfgMessages(MsgUtil.java:48) [【快捷商店】QuickShop.jar:?]
+	at org.maxgamer.QuickShop.QuickShop.reloadConfig(QuickShop.java:344) [【快捷商店】QuickShop.jar:?]
+	at org.maxgamer.QuickShop.QuickShop.onEnable(QuickShop.java:107) [【快捷商店】QuickShop.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:250) [JavaPlugin.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:360) [JavaPluginLoader.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:390) [SimplePluginManager.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.loadPlugin(CraftServer.java:393) [CraftServer.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.enablePlugins(CraftServer.java:329) [CraftServer.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at net.minecraft.server.MinecraftServer.func_71243_i(MinecraftServer.java:499) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71222_d(MinecraftServer.java:475) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:418) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:309) [lj.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:607) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.7.0_141]
+Caused by: org.yaml.snakeyaml.reader.ReaderException: special characters are not allowed
+	at org.yaml.snakeyaml.reader.StreamReader.checkPrintable(StreamReader.java:70) ~[StreamReader.class:?]
+	at org.yaml.snakeyaml.reader.StreamReader.<init>(StreamReader.java:50) ~[StreamReader.class:?]
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:399) ~[Yaml.class:?]
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:53) ~[YamlConfiguration.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	... 16 more
+[08:42:41] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Hooking Vault
+[08:42:41] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Starting item scheduler
+[08:42:41] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Limit cfg found...
+[08:42:41] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Limits.use: true
+[08:42:41] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] {quickshop.vip=60, quickshop=0}
+[08:42:41] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Loading shops from database...
+[08:42:41] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Loaded 0 shops.
+[08:42:41] [Server thread/INFO] [/]: Cleaning purchase messages from database that are over a week old...
+[08:42:41] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Registering Listeners
+[08:42:41] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Metrics started.
+[08:42:41] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] QuickShop loaded!
+[08:42:41] [Server thread/INFO] [com.earth2me.essentials.protect.EssentialsProtect/]: [EssentialsProtect] Enabling EssentialsProtect v2.12.2
+[08:42:41] [Server thread/INFO] [uk.org.whoami.authme.AuthMe/]: [AuthMe] Enabling AuthMe v2.7.8
+[08:42:41] [Server thread/INFO] [uk.org.whoami.authme.AuthMe/]: [AuthMe] Loading Configuration File...
+[08:42:41] [Server thread/INFO] [uk.org.whoami.authme.AuthMe/]: [AuthMe] Merge new Config Options if needed..
+[08:42:41] [Server thread/INFO] [Minecraft/]: [AuthMe] Set Language: en
+[08:42:41] [Server thread/INFO] [Minecraft/]: [AuthMe] Authme 2.7.8 enabled
+[08:42:41] [Server thread/INFO] [com.earth2me.essentials.spawn.EssentialsSpawn/]: [EssentialsSpawn] Enabling EssentialsSpawn v2.12.2
+[08:42:41] [Server thread/INFO] [com.earth2me.essentials.chat.EssentialsChat/]: [EssentialsChat] Enabling EssentialsChat v2.12.2
+[08:42:41] [Server thread/INFO] [com.earth2me.essentials.antibuild.EssentialsAntiBuild/]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.12.2
+[08:42:41] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[08:42:42] [Server thread/INFO] [/]: GroupManager - INFO - Bukkit Permissions Updated!
+[08:42:42] [Craft Scheduler Thread - 6/INFO] [com.gmail.nossr50.mcMMO/]: [mcMMO] Cleaned backup files. Deleted 7 of 13 files.
+[08:42:42] [Craft Scheduler Thread - 0/WARN] [/]: [Fatal Error] :1:1: Premature end of file.
+
+[08:42:58] [Netty IO #3/INFO] [FML/]: Client protocol version 1
+[08:42:58] [Netty IO #3/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[08:42:58] [Netty IO #3/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[08:42:59] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[08:43:10] [Server thread/INFO] [Minecraft/]: [AuthMe] §2WanSan§r logged in!
+[08:44:01] [Netty IO #1/INFO] [FML/]: Client protocol version 1
+[08:44:01] [Netty IO #1/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[08:44:01] [Netty IO #1/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[08:44:02] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[08:44:15] [Server thread/INFO] [Minecraft/]: [AuthMe] §2gorilla§r logged in!
+[08:52:33] [pool-4-thread-1/INFO] [/]: GroupManager - INFO -  Data files refreshed.
+[09:05:24] [Netty IO #1/INFO] [FML/]: Client protocol version 1
+[09:05:24] [Netty IO #1/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[09:05:24] [Netty IO #1/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[09:05:25] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[09:05:45] [Server thread/INFO] [Minecraft/]: [AuthMe] §2Mshuai§r logged in!
+[09:12:33] [pool-4-thread-1/INFO] [/]: GroupManager - INFO -  Data files refreshed.
+[09:18:49] [Netty IO #0/INFO] [FML/]: Client protocol version 1
+[09:18:49] [Netty IO #0/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[09:18:49] [Netty IO #0/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[09:18:50] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[09:19:03] [Server thread/INFO] [Minecraft/]: [AuthMe] §2Mshuai§r logged in!
+[09:21:27] [Netty IO #0/INFO] [/]: [m<[0;32;22m[0;31;1mMshuai[m> help[m
+[09:21:36] [Netty IO #1/INFO] [/]: [m<[0;32;22m[0;31;1mgorilla[m> za la[m
+[09:22:09] [Netty IO #0/INFO] [/]: [m<[0;32;22m[0;31;1mMshuai[m> chuan song ding dian bu neng yong[m
+[09:22:51] [Netty IO #1/INFO] [/]: [m<[0;32;22m[0;31;1mgorilla[m> a？[m
+[09:23:00] [Netty IO #1/INFO] [/]: [m<[0;32;22m[0;31;1mgorilla[m> chuan song dao wo zhe lai[m
+[09:23:16] [Netty IO #0/INFO] [/]: [m<[0;32;22m[0;31;1mMshuai[m> yu yin ba[m
+[09:27:57] [Netty IO #3/INFO] [FML/]: Client protocol version 1
+[09:27:57] [Netty IO #3/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[09:27:57] [Netty IO #3/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[09:27:58] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[09:28:07] [Server thread/INFO] [Minecraft/]: [AuthMe] §2Mshuai§r logged in!
+[09:33:15] [Netty IO #0/INFO] [FML/]: Client protocol version 1
+[09:33:15] [Netty IO #0/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[09:33:15] [Netty IO #0/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[09:33:16] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[09:33:27] [Server thread/INFO] [Minecraft/]: [AuthMe] §2Banana§r logged in!
+[09:40:39] [Netty IO #1/INFO] [FML/]: Client protocol version 1
+[09:40:39] [Netty IO #1/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[09:40:39] [Netty IO #1/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[09:40:40] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[09:40:58] [Server thread/INFO] [Minecraft/]: [AuthMe] §2Mshuai§r logged in!
+[09:42:33] [pool-4-thread-1/INFO] [/]: GroupManager - INFO -  Data files refreshed.
+[10:16:28] [Netty IO #3/INFO] [FML/]: Client protocol version 1
+[10:16:28] [Netty IO #3/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[10:16:28] [Netty IO #3/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[10:16:30] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[10:16:46] [Server thread/INFO] [Minecraft/]: [AuthMe] §2Mshuai§r logged in!
+[10:19:50] [Netty IO #0/INFO] [FML/]: Client protocol version 1
+[10:19:50] [Netty IO #0/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[10:19:50] [Netty IO #0/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[10:19:51] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[10:19:56] [Server thread/INFO] [Minecraft/]: [AuthMe] §2Banana§r logged in!
+[10:24:12] [Netty IO #2/INFO] [FML/]: Client protocol version 1
+[10:24:12] [Netty IO #2/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[10:24:12] [Netty IO #2/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[10:24:13] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[10:24:27] [Server thread/INFO] [Minecraft/]: [AuthMe] §2Mshuai§r logged in!
+[10:29:30] [Netty IO #3/INFO] [FML/]: Client protocol version 1
+[10:29:30] [Netty IO #3/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[10:29:30] [Netty IO #3/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[10:29:30] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[10:29:35] [Server thread/INFO] [Minecraft/]: [AuthMe] §2gorilla§r logged in!
+[10:32:46] [Netty IO #2/INFO] [FML/]: Client protocol version 1
+[10:32:46] [Netty IO #2/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[10:32:46] [Netty IO #2/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[10:32:46] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[10:32:47] [Netty IO #1/INFO] [FML/]: Client protocol version 1
+[10:32:47] [Netty IO #1/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[10:32:47] [Netty IO #1/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[10:32:51] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[10:32:53] [Server thread/INFO] [Minecraft/]: [AuthMe] §2gorilla§r logged in!
+[10:33:08] [Server thread/INFO] [Minecraft/]: [AuthMe] §2Mshuai§r logged in!
+[10:34:37] [Netty IO #0/INFO] [FML/]: Client protocol version 1
+[10:34:37] [Netty IO #0/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[10:34:37] [Netty IO #0/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[10:34:37] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[10:34:49] [Server thread/INFO] [Minecraft/]: [AuthMe] §2Mshuai§r logged in!
+[10:36:01] [Netty IO #1/INFO] [FML/]: Client protocol version 1
+[10:36:01] [Netty IO #1/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[10:36:01] [Netty IO #1/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[10:36:01] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[10:36:06] [Server thread/INFO] [Minecraft/]: [AuthMe] §2gorilla§r logged in!
+[10:36:49] [Netty IO #2/INFO] [FML/]: Client protocol version 1
+[10:36:49] [Netty IO #2/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[10:36:49] [Netty IO #2/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[10:36:51] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[10:37:20] [Server thread/INFO] [Minecraft/]: [AuthMe] §2Mshuai§r logged in!
+[10:51:45] [Netty IO #0/INFO] [FML/]: Client protocol version 1
+[10:51:45] [Netty IO #0/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[10:51:45] [Netty IO #0/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[10:51:47] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[10:51:58] [Server thread/INFO] [Minecraft/]: [AuthMe] §2Mshuai§r logged in!
+[11:05:31] [Netty IO #1/INFO] [FML/]: Client protocol version 1
+[11:05:31] [Netty IO #1/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[11:05:31] [Netty IO #1/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[11:05:34] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[11:06:11] [Server thread/INFO] [Minecraft/]: [AuthMe] §2Mshuai§r logged in!
+[11:16:19] [Netty IO #3/INFO] [FML/]: Client protocol version 1
+[11:16:19] [Netty IO #3/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[11:16:19] [Netty IO #3/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[11:16:24] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[11:16:35] [Server thread/INFO] [Minecraft/]: [AuthMe] §2WanSan§r logged in!
+[11:20:35] [Netty IO #1/INFO] [FML/]: Client protocol version 1
+[11:20:35] [Netty IO #1/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[11:20:35] [Netty IO #1/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[11:20:37] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[11:20:49] [Server thread/INFO] [Minecraft/]: [AuthMe] §2WanSan§r logged in!
+[11:29:37] [Netty IO #2/INFO] [FML/]: Client protocol version 1
+[11:29:37] [Netty IO #2/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[11:29:37] [Netty IO #2/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[11:29:38] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[11:30:11] [Server thread/INFO] [Minecraft/]: [AuthMe] §2WanSan§r logged in!
+[11:31:21] [Netty IO #3/INFO] [FML/]: Client protocol version 1
+[11:31:21] [Netty IO #3/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[11:31:21] [Netty IO #3/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[11:31:23] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[11:31:37] [Server thread/INFO] [Minecraft/]: [AuthMe] §2WanSan§r logged in!
+[11:33:10] [Netty IO #0/INFO] [FML/]: Client protocol version 1
+[11:33:10] [Netty IO #0/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[11:33:10] [Netty IO #0/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[11:33:12] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[11:33:21] [Server thread/INFO] [Minecraft/]: [AuthMe] §2WanSan§r logged in!
+[11:41:32] [Netty IO #0/INFO] [/]: [m<[0;32;22m[0;31;1mWanSan[m> ............[m
+[11:45:18] [Netty IO #2/INFO] [FML/]: Client protocol version 1
+[11:45:18] [Netty IO #2/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[11:45:18] [Netty IO #2/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[11:45:19] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[11:45:33] [Server thread/INFO] [Minecraft/]: [AuthMe] §2Mshuai§r logged in!
+[11:55:12] [Netty IO #0/INFO] [/]: [m<[0;32;22m[0;31;1mWanSan[m> 0.0[m
+[12:40:15] [Netty IO #0/INFO] [FML/]: Client protocol version 1
+[12:40:15] [Netty IO #0/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[12:40:15] [Netty IO #0/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[12:40:16] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[12:40:30] [Server thread/INFO] [Minecraft/]: [AuthMe] §2coldwinter§r logged in!
+[12:42:33] [pool-4-thread-1/INFO] [/]: GroupManager - INFO -  Data files refreshed.
+[12:49:40] [Netty IO #1/INFO] [/]: [m<[0;32;22m[0;31;1mgorilla[m> No。。[m
+[12:49:48] [Netty IO #0/INFO] [/]: [m<[0;32;22m[0;31;1mWanSan[m> ??[m
+[12:49:52] [Netty IO #0/INFO] [/]: [m<[0;32;22m[0;31;1mcoldwinter[m> come here[m
+[12:49:57] [Netty IO #1/INFO] [/]: [m<[0;32;22m[0;31;1mgorilla[m> wait[m
+[12:50:19] [Netty IO #0/INFO] [/]: [m<[0;32;22m[0;31;1mcoldwinter[m> give you a gift[m
+[12:50:38] [Netty IO #0/INFO] [/]: [m<[0;32;22m[0;31;1mcoldwinter[m> if you can take it[m
+[13:01:58] [Netty IO #1/INFO] [/]: [m<[0;32;22m[0;31;1mgorilla[m> ！！！[m
+[13:02:03] [Netty IO #0/INFO] [/]: [m<[0;32;22m[0;31;1mcoldwinter[m> 2333333333333[m
+[13:02:15] [Netty IO #1/INFO] [/]: [m<[0;32;22m[0;31;1mgorilla[m> T - T[m
+[13:02:18] [Netty IO #0/INFO] [/]: [m<[0;32;22m[0;31;1mcoldwinter[m> wa bu diao[m
+[13:02:38] [Netty IO #1/INFO] [/]: [m<[0;32;22m[0;31;1mgorilla[m> 66666[m
+[13:03:00] [Netty IO #0/INFO] [/]: [m<[0;32;22m[0;31;1mcoldwinter[m> wo hui shua le[m
+[13:03:14] [Netty IO #1/INFO] [/]: [m<[0;32;22m[0;31;1mgorilla[m> shua yan jiang？[m
+[13:03:16] [Netty IO #0/INFO] [/]: [m<[0;32;22m[0;31;1mcoldwinter[m> hong shi ke yi bian cheng hei yao shi[m
+[13:03:29] [Netty IO #0/INFO] [/]: [m<[0;32;22m[0;31;1mcoldwinter[m> shi de[m
+[14:43:08] [Craft Scheduler Thread - 204/WARN] [/]: [Fatal Error] :1:1: Premature end of file.
+
+[14:46:09] [Server thread/INFO] [/]: WanSan: Forcing save..[m
+[14:46:09] [Server thread/INFO] [/]: WanSan: Save complete.[m
+[20:43:10] [Craft Scheduler Thread - 344/WARN] [/]: [Fatal Error] :1:1: Premature end of file.
+
+[21:25:39] [Netty IO #2/INFO] [FML/]: Client protocol version 1
+[21:25:39] [Netty IO #2/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[21:25:39] [Netty IO #2/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[21:25:40] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[21:25:53] [Server thread/INFO] [Minecraft/]: [AuthMe] §2coldwinter§r logged in!
+[21:30:27] [Netty IO #3/INFO] [FML/]: Client protocol version 1
+[21:30:27] [Netty IO #3/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[21:30:27] [Netty IO #3/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[21:30:28] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[21:30:36] [Server thread/INFO] [Minecraft/]: [AuthMe] §2coldwinter§r logged in!
+[21:36:37] [Netty IO #1/INFO] [FML/]: Client protocol version 1
+[21:36:37] [Netty IO #1/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[21:36:37] [Netty IO #1/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[21:36:38] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[21:36:55] [Server thread/INFO] [Minecraft/]: [AuthMe] §2Mshuai§r logged in!
+[00:05:20] [Netty IO #2/INFO] [FML/]: Client protocol version 1
+[00:05:20] [Netty IO #2/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[00:05:20] [Netty IO #2/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[00:05:21] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[00:05:29] [Server thread/INFO] [Minecraft/]: [AuthMe] §2Banana§r logged in!
+[00:16:44] [Netty IO #0/INFO] [FML/]: Client protocol version 1
+[00:16:44] [Netty IO #0/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[00:16:44] [Netty IO #0/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[00:16:45] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[00:17:03] [Server thread/INFO] [Minecraft/]: [AuthMe] §2coldwinter§r logged in!
+[00:17:18] [Netty IO #2/INFO] [FML/]: Client protocol version 1
+[00:17:18] [Netty IO #2/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[00:17:18] [Netty IO #2/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[00:17:19] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[00:17:28] [Server thread/INFO] [Minecraft/]: [AuthMe] §2gorilla§r logged in!
+[00:27:24] [Netty IO #0/INFO] [FML/]: Client protocol version 1
+[00:27:24] [Netty IO #0/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[00:27:24] [Netty IO #0/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[00:27:25] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[00:28:09] [Server thread/INFO] [Minecraft/]: [AuthMe] §2Mshuai§r logged in!
+[00:30:26] [Netty IO #1/INFO] [FML/]: Client protocol version 1
+[00:30:26] [Netty IO #1/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[00:30:26] [Netty IO #1/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[00:30:27] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[00:30:42] [Server thread/INFO] [Minecraft/]: [AuthMe] §2coldwinter§r logged in!
+[00:31:06] [Netty IO #0/INFO] [FML/]: Client protocol version 1
+[00:31:06] [Netty IO #0/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[00:31:06] [Netty IO #0/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[00:31:07] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[00:31:15] [Server thread/INFO] [Minecraft/]: [AuthMe] §2Mshuai§r logged in!
+[00:32:01] [Netty IO #3/INFO] [FML/]: Client protocol version 1
+[00:32:01] [Netty IO #3/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[00:32:01] [Netty IO #3/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[00:32:02] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[00:32:10] [Server thread/INFO] [Minecraft/]: [AuthMe] §2Banana§r logged in!
+[00:32:18] [Netty IO #0/INFO] [FML/]: Client protocol version 1
+[00:32:18] [Netty IO #0/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[00:32:18] [Netty IO #0/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[00:32:19] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[00:32:28] [Server thread/INFO] [Minecraft/]: [AuthMe] §2gorilla§r logged in!
+[00:39:52] [Netty IO #0/INFO] [FML/]: Client protocol version 1
+[00:39:52] [Netty IO #0/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[00:39:52] [Netty IO #0/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[00:48:43] [Netty IO #1/INFO] [FML/]: Client protocol version 1
+[00:48:43] [Netty IO #1/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[00:48:43] [Netty IO #1/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[00:48:44] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[00:48:50] [Server thread/INFO] [Minecraft/]: [AuthMe] §2Banana§r logged in!
+[00:58:44] [Netty IO #2/INFO] [FML/]: Client protocol version 1
+[00:58:44] [Netty IO #2/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[00:58:44] [Netty IO #2/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[00:58:45] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[00:58:53] [Server thread/INFO] [Minecraft/]: [AuthMe] §2coldwinter§r logged in!
+[00:59:41] [Netty IO #3/INFO] [FML/]: Client protocol version 1
+[00:59:41] [Netty IO #3/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[00:59:41] [Netty IO #3/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[00:59:42] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[00:59:49] [Server thread/INFO] [Minecraft/]: [AuthMe] §2Mshuai§r logged in!
+[01:00:13] [Netty IO #0/INFO] [FML/]: Client protocol version 1
+[01:00:13] [Netty IO #0/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[01:00:13] [Netty IO #0/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[01:00:14] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[01:00:23] [Server thread/INFO] [Minecraft/]: [AuthMe] §2coldwinter§r logged in!
+[01:30:28] [Netty IO #1/INFO] [FML/]: Client protocol version 1
+[01:30:28] [Netty IO #1/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[01:30:28] [Netty IO #1/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[01:30:29] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[01:30:37] [Netty IO #2/INFO] [FML/]: Client protocol version 1
+[01:30:37] [Netty IO #2/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[01:30:37] [Netty IO #2/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[01:30:38] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[01:30:39] [Server thread/INFO] [Minecraft/]: [AuthMe] §2Mshuai§r logged in!
+[01:30:45] [Server thread/INFO] [Minecraft/]: [AuthMe] §2coldwinter§r logged in!
+[01:30:48] [Server thread/INFO] [/]: coldwinter: Forcing save..[m
+[01:30:48] [Server thread/INFO] [/]: coldwinter: Save complete.[m
+[01:50:04] [Netty IO #3/INFO] [FML/]: Client protocol version 1
+[01:50:04] [Netty IO #3/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[01:50:04] [Netty IO #3/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[01:50:05] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[01:50:15] [Server thread/INFO] [Minecraft/]: [AuthMe] §2coldwinter§r logged in!
+[01:52:23] [Netty IO #1/INFO] [FML/]: Client protocol version 1
+[01:52:23] [Netty IO #1/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[01:52:23] [Netty IO #1/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[01:52:24] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[01:52:40] [Server thread/INFO] [Minecraft/]: [AuthMe] §2Mshuai§r logged in!
+[01:54:57] [Netty IO #2/INFO] [FML/]: Client protocol version 1
+[01:54:57] [Netty IO #2/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[01:54:57] [Netty IO #2/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[01:54:58] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[01:55:06] [Server thread/INFO] [Minecraft/]: [AuthMe] §2coldwinter§r logged in!
+[01:56:51] [Netty IO #0/INFO] [FML/]: Client protocol version 1
+[01:56:51] [Netty IO #0/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[01:56:51] [Netty IO #0/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[01:56:52] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[01:57:00] [Server thread/INFO] [Minecraft/]: [AuthMe] §2Mshuai§r logged in!
+[01:59:20] [Netty IO #1/INFO] [FML/]: Client protocol version 1
+[01:59:20] [Netty IO #1/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[01:59:20] [Netty IO #1/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[01:59:20] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[01:59:28] [Server thread/INFO] [Minecraft/]: [AuthMe] §2Mshuai§r logged in!
+[02:02:29] [Netty IO #2/INFO] [FML/]: Client protocol version 1
+[02:02:29] [Netty IO #2/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[02:02:29] [Netty IO #2/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[02:02:30] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[02:02:38] [Server thread/INFO] [Minecraft/]: [AuthMe] §2Mshuai§r logged in!
+[02:08:45] [Server thread/INFO] [/]: coldwinter: Forcing save..[m
+[02:08:45] [Server thread/INFO] [/]: coldwinter: Save complete.[m
+[02:43:20] [Craft Scheduler Thread - 508/WARN] [/]: [Fatal Error] :1:1: Premature end of file.
+
+[06:02:44] [Netty IO #1/INFO] [FML/]: Client protocol version 1
+[06:02:44] [Netty IO #1/INFO] [FML/]: Client attempting to join with 8 mods : mcp@9.03,FML@7.2.211.1121,NotEnoughItems@1.0.2.34,Forge@10.12.2.1121,CodeChickenCore@1.0.2.12,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[06:02:44] [Netty IO #1/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[06:02:45] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[06:02:55] [Server thread/INFO] [Minecraft/]: [AuthMe] §2WanSan§r logged in!
+[06:28:33] [Server thread/INFO] [/]: Unknown command. Type "/help" for help.[m
+[06:28:43] [Server thread/INFO] [/]: CONSOLE: Forcing save..[m
+[06:28:43] [Server thread/INFO] [/]: CONSOLE: Save complete.[m
+[06:28:51] [Server thread/INFO] [/]: CONSOLE: Stopping the server..[m
+[06:28:51] [Server thread/INFO] [com.earth2me.essentials.antibuild.EssentialsAntiBuild/]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.12.2
+[06:28:51] [Server thread/INFO] [com.earth2me.essentials.chat.EssentialsChat/]: [EssentialsChat] Disabling EssentialsChat v2.12.2
+[06:28:51] [Server thread/INFO] [com.earth2me.essentials.spawn.EssentialsSpawn/]: [EssentialsSpawn] Disabling EssentialsSpawn v2.12.2
+[06:28:51] [Server thread/INFO] [uk.org.whoami.authme.AuthMe/]: [AuthMe] Disabling AuthMe v2.7.8
+[06:28:51] [Server thread/INFO] [Minecraft/]: [AuthMe] Authme 2.7.8 disabled
+[06:28:51] [Server thread/INFO] [com.earth2me.essentials.protect.EssentialsProtect/]: [EssentialsProtect] Disabling EssentialsProtect v2.12.2
+[06:28:51] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Disabling QuickShop v4.4
+[06:28:51] [Server thread/ERROR] [Minecraft/]: Cannot load plugins/QuickShop/messages.yml
+org.bukkit.configuration.InvalidConfigurationException: unacceptable character '�' (0xFFFD) special characters are not allowed
+in "<string>", position 173
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55) ~[YamlConfiguration.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:149) ~[FileConfiguration.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:114) ~[FileConfiguration.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(YamlConfiguration.java:176) [YamlConfiguration.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.maxgamer.QuickShop.Util.MsgUtil.loadCfgMessages(MsgUtil.java:43) [【快捷商店】QuickShop.jar:?]
+	at org.maxgamer.QuickShop.QuickShop.reloadConfig(QuickShop.java:344) [【快捷商店】QuickShop.jar:?]
+	at org.maxgamer.QuickShop.QuickShop.onDisable(QuickShop.java:426) [【快捷商店】QuickShop.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:252) [JavaPlugin.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:384) [JavaPluginLoader.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:409) [SimplePluginManager.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:402) [SimplePluginManager.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.disablePlugins(CraftServer.java:344) [CraftServer.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:544) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:707) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.7.0_141]
+Caused by: org.yaml.snakeyaml.reader.ReaderException: special characters are not allowed
+	at org.yaml.snakeyaml.reader.StreamReader.checkPrintable(StreamReader.java:70) ~[StreamReader.class:?]
+	at org.yaml.snakeyaml.reader.StreamReader.<init>(StreamReader.java:50) ~[StreamReader.class:?]
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:399) ~[Yaml.class:?]
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:53) ~[YamlConfiguration.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	... 14 more
+[06:28:51] [Server thread/ERROR] [Minecraft/]: Cannot load configuration from stream
+org.bukkit.configuration.InvalidConfigurationException: unacceptable character '�' (0xFFFD) special characters are not allowed
+in "<string>", position 173
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55) ~[YamlConfiguration.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:149) ~[FileConfiguration.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(YamlConfiguration.java:204) [YamlConfiguration.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.maxgamer.QuickShop.Util.MsgUtil.loadCfgMessages(MsgUtil.java:48) [【快捷商店】QuickShop.jar:?]
+	at org.maxgamer.QuickShop.QuickShop.reloadConfig(QuickShop.java:344) [【快捷商店】QuickShop.jar:?]
+	at org.maxgamer.QuickShop.QuickShop.onDisable(QuickShop.java:426) [【快捷商店】QuickShop.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:252) [JavaPlugin.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:384) [JavaPluginLoader.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:409) [SimplePluginManager.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:402) [SimplePluginManager.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.disablePlugins(CraftServer.java:344) [CraftServer.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:544) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:707) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.7.0_141]
+Caused by: org.yaml.snakeyaml.reader.ReaderException: special characters are not allowed
+	at org.yaml.snakeyaml.reader.StreamReader.checkPrintable(StreamReader.java:70) ~[StreamReader.class:?]
+	at org.yaml.snakeyaml.reader.StreamReader.<init>(StreamReader.java:50) ~[StreamReader.class:?]
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:399) ~[Yaml.class:?]
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:53) ~[YamlConfiguration.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	... 13 more
+[06:28:51] [Server thread/INFO] [com.bekvon.bukkit.residence.ResidenceCommandListener/]: [Residence] Disabling Residence v2.6.6.6
+[06:28:51] [Server thread/INFO] [Minecraft/]: [Residence] Disabled!
+[06:28:51] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Disabling Essentials v2.12.2
+[06:28:51] [Server thread/INFO] [Minecraft/]: [Vault][Economy] Essentials Economy unhooked.
+[06:28:51] [Server thread/INFO] [me.itsatacoshop247.TreeAssist.TreeAssist/]: [TreeAssist] Disabling TreeAssist v5.8.89
+[06:28:51] [Server thread/INFO] [com.gmail.nossr50.mcMMO/]: [mcMMO] Disabling mcMMO v1.5.00-b3547
+[06:28:51] [Server thread/INFO] [Minecraft/]: [Lockette] Disabled link to plugin mcMMO, version 1.5.00-b3547
+[06:28:52] [Server thread/INFO] [com.worldcretornica.plotme.PlotMe/]: [PlotMe] Disabling PlotMe v0.13b
+[06:28:52] [Server thread/INFO] [net.milkbowl.vault.Vault/]: [Vault] Disabling Vault v1.2.27-b349
+[06:28:52] [Server thread/INFO] [org.yi.acru.bukkit.Lockette.Lockette/]: [Lockette] Disabling Lockette v1.7.12
+[06:28:52] [Server thread/INFO] [Minecraft/]: Lockette is being disabled...  ;.;
+[06:28:52] [Server thread/INFO] [Minecraft/]: [Lockette] Closing all automatic doors.
+[06:28:52] [Server thread/INFO] [com.tigerhix.signs.Main/]: [TigerSigns] Disabling TigerSigns v1.0.0
+[06:28:52] [Server thread/INFO] [com.iCo6.iConomy/]: [iConomy] Disabling iConomy v7.0
+[06:28:52] [Server thread/INFO] [/]: [iConomy] Closing general data...
+[06:28:52] [Server thread/INFO] [/]: [iConomy] Disabled. (0 ms)
+[06:28:52] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] Disabling WorldEdit v5.5.8
+[06:28:52] [Server thread/INFO] [org.anjocaido.groupmanager.GroupManager/]: [GroupManager] Disabling GroupManager v2.0 (2.12.1) (Phoenix)
+[06:28:52] [Server thread/INFO] [/]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[06:28:52] [Server thread/INFO] [/]: GroupManager version 2.0 (2.12.1) (Phoenix) is disabled!
+[06:28:52] [Server thread/INFO] [FML/]: Unloading dimension 0
+[06:28:52] [Server thread/INFO] [FML/]: Unloading dimension -1
+[06:28:52] [Server thread/INFO] [FML/]: Applying holder lookups
+[06:28:52] [Server thread/INFO] [FML/]: Holder lookups applied

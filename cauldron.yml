@@ -1,0 +1,166 @@
+# This is the main configuration file for Cauldron.
+# 
+# If you need help with the configuration or have any questions related to Cauldron,
+# join us at the IRC or drop by our forums and leave a post.
+# 
+# IRC: #cauldron @ irc.esper.net ( http://webchat.esper.net/?channel=cauldron )
+# Forums: http://cauldron.minecraftforge.net/
+# 
+# Setting: world-settings.default.infinite-water-source Default: true   # Vanilla water source behavior - is infinite
+# Setting: logging.warn-place-no-tileentity Default: true   # Warn when a mod requests tile entity from a block that doesn't support one
+# Setting: logging.world-leak-debug Default: false   # Log worlds that appear to be leaking (buggy)
+# Setting: logging.chunk-load Default: false   # Log when chunks are loaded (dev)
+# Setting: logging.collision-warn-size Default: 200   # Number of colliding entities in one spot before logging a warning. Set to 0 to disable
+# Setting: logging.entity-speed-removal Default: false   # Whether to log entity removals due to speed
+# Setting: logging.entity-spawn Default: false   # Log when living entities are spawned (dev)
+# Setting: settings.check-entity-bounding-boxes Default: false   # Removes an entity that exceeds the max bounding box size.
+# Setting: settings.load-chunk-on-request Default: true   # Forces Chunk Loading on 'Provide' requests (speedup for mods that don't check if a chunk is loaded
+# Setting: logging.entity-despawn Default: false   # Log when living entities are despawned (dev)
+# Setting: logging.connection Default: false   # Log connections
+# Setting: plugin-settings.default.remap-plugin-file Default: false   # Remap the plugin file (dev)
+# Setting: logging.dump-heap-on-deadlock Default: false   # Dump the heap in the event of a deadlock (helps to debug the deadlock)
+# Setting: logging.entity-collision-checks Default: false   # Whether to log entity collision/count checks
+# Setting: settings.dump-materials Default: false   # Dumps all materials with their corresponding id's
+# Setting: logging.dump-chunks-on-deadlock Default: false   # Dump chunks in the event of a deadlock (helps to debug the deadlock)
+# Setting: logging.chunk-unload Default: false   # Log when chunks are unloaded (dev)
+# Setting: settings.entity-bounding-box-max-size Default: 1000   # Max size of an entity's bounding box before removing it (either being too large or bugged and 'moving' too fast)
+# Setting: logging.detailed-logging Default: false   # Add stack traces to dev logging
+# Setting: logging.entity-count-warn-size Default: 0   # Number of entities in one dimension logging a warning. Set to 0 to disable
+# Setting: settings.load-chunk-on-forge-tick Default: false   # Forces Chunk Loading during Forge Server Tick events
+# Setting: logging.disabled-warnings Default: false   # Disable warning messages to server admins
+# Setting: logging.entity-death Default: false   # Log when an entity is destroyed (dev)
+# Setting: logging.dump-threads-on-warn Default: false   # Dump the the server thread on deadlock warning (delps to debug the deadlock)
+# Setting: fake-players.do-login Default: false   # Raise login events for fake players
+# Setting: debug.thread-contention-monitoring Default: false   # Set true to enable Java's thread contention monitoring for thread dumps
+# Setting: settings.check-entity-max-speeds Default: false   # Removes any entity that exceeds max speed.
+# Setting: world-settings.default.flowing-lava-decay Default: false   # Lava behaves like vanilla water when source block is removed
+# Setting: logging.tick-intervals Default: false   # Log when skip interval handlers are ticked
+
+world-settings:
+  default:
+    thaumcraft-common-tiles-TileCrucible:
+      tick-no-players: false
+      tick-interval: 1
+    infinite-water-source: true
+    net-minecraft-tileentity-TileEntityEnchantmentTable:
+      tick-no-players: false
+      tick-interval: 1
+    thaumcraft-common-tiles-TileNode:
+      tick-interval: 1
+      tick-no-players: false
+    thaumcraft-common-tiles-TileLifter:
+      tick-interval: 1
+      tick-no-players: false
+    thaumcraft-common-tiles-TileWardingStoneFence:
+      tick-interval: 1
+      tick-no-players: false
+    thaumcraft-common-tiles-TileArcaneLamp:
+      tick-interval: 1
+      tick-no-players: false
+    thaumcraft-common-tiles-TileWardingStone:
+      tick-no-players: false
+      tick-interval: 1
+    thaumcraft-common-tiles-TileResearchTable:
+      tick-no-players: false
+      tick-interval: 1
+    net-minecraft-tileentity-TileEntityMobSpawner:
+      tick-no-players: false
+      tick-interval: 1
+    thaumcraft-common-tiles-TileArcaneLampGrowth:
+      tick-interval: 1
+      tick-no-players: false
+    net-minecraft-tileentity-TileEntityFurnace:
+      tick-interval: 1
+      tick-no-players: false
+    entities:
+      despawn-immediate: true
+    thaumcraft-common-tiles-TileNitor:
+      tick-interval: 1
+      tick-no-players: false
+    net-minecraft-tileentity-TileEntityChest:
+      tick-no-players: false
+      tick-interval: 1
+    thaumcraft-common-tiles-TileArcaneWorkbench:
+      tick-interval: 1
+      tick-no-players: false
+    thaumcraft-common-tiles-TileArcaneLampLight:
+      tick-no-players: false
+      tick-interval: 1
+    flowing-lava-decay: false
+    thaumcraft-common-tiles-TileTube:
+      tick-interval: 1
+      tick-no-players: false
+    thaumcraft-common-tiles-TileMirror:
+      tick-interval: 1
+      tick-no-players: false
+    worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
+    thaumcraft-common-tiles-TileCentrifuge:
+      tick-interval: 1
+      tick-no-players: false
+    thaumcraft-common-tiles-TileNodeStabilizer:
+      tick-no-players: false
+      tick-interval: 1
+    thaumcraft-common-tiles-TileChestHungry:
+      tick-interval: 1
+      tick-no-players: false
+    thaumcraft-common-tiles-TileInfusionMatrix:
+      tick-no-players: false
+      tick-interval: 1
+    thaumcraft-common-tiles-TileArcaneFurnace:
+      tick-interval: 1
+      tick-no-players: false
+    net-minecraft-tileentity-TileEntityPiston:
+      tick-no-players: false
+      tick-interval: 1
+    thaumcraft-common-tiles-TileEtherealBloom:
+      tick-interval: 1
+      tick-no-players: false
+    thaumcraft-common-tiles-TileWandPedestal:
+      tick-no-players: false
+      tick-interval: 1
+    net-minecraft-tileentity-TileEntityHopper:
+      tick-no-players: false
+      tick-interval: 1
+    worldgen-LotsOfFood-PDAWorldGen: true
+    worldgen-BambooMod-GeneraterHandler: true
+logging:
+  warn-place-no-tileentity: true
+  world-leak-debug: false
+  chunk-load: false
+  collision-warn-size: 200
+  entity-speed-removal: false
+  entity-spawn: false
+  entity-despawn: false
+  connection: false
+  dump-heap-on-deadlock: false
+  entity-collision-checks: false
+  dump-chunks-on-deadlock: false
+  chunk-unload: false
+  detailed-logging: false
+  entity-count-warn-size: 0
+  disabled-warnings: false
+  entity-death: false
+  dump-threads-on-warn: false
+  tick-intervals: false
+settings:
+  check-entity-bounding-boxes: false
+  load-chunk-on-request: true
+  dump-materials: false
+  entity-bounding-box-max-size: 1000
+  load-chunk-on-forge-tick: false
+  check-entity-max-speeds: false
+plugin-settings:
+  default:
+    remap-plugin-file: false
+fake-players:
+  do-login: false
+debug:
+  thread-contention-monitoring: false
+config-version: 1
+world-environment-settings:
+  normal:
+    keep-world-loaded: true
+  nether:
+    keep-world-loaded: true
+  the_end:
+    keep-world-loaded: false

@@ -1,0 +1,483 @@
+[03:57:51] [main/INFO] [FML/]: Forge Mod Loader version 7.2.217.1147 for Minecraft 1.7.2 loading
+[03:57:51] [main/INFO] [FML/]: Java is OpenJDK 64-Bit Server VM, version 1.7.0_141, running on Linux:amd64:4.10.4-1.el7.elrepo.x86_64, installed at /usr/lib/jvm/java-1.7.0-openjdk-1.7.0.141-2.6.10.1.el7_3.x86_64/jre
+[03:57:51] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[03:57:51] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[03:57:51] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[03:57:51] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[03:57:51] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:57:53] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:57:53] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:57:53] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[03:57:54] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[03:57:58] [Server thread/INFO] [MinecraftForge/]: Attempting early MinecraftForge initialization
+[03:57:58] [Server thread/INFO] [FML/]: MinecraftForge v10.12.2.1147 Initialized
+[03:57:59] [Server thread/INFO] [FML/]: Replaced 182 ore recipies
+[03:57:59] [Server thread/INFO] [MinecraftForge/]: Completed early MinecraftForge initialization
+[03:57:59] [Server thread/INFO] [FML/]: Searching /home/ace/minecraft_mcpc/mods for mods
+[03:57:59] [Server thread/INFO] [FML/]: Also searching /home/ace/minecraft_mcpc/mods/1.7.2 for mods
+[03:57:59] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 5 mods to load
+[03:58:00] [Server thread/INFO] [FML/]: Processing ObjectHolder annotations
+[03:58:00] [Server thread/INFO] [FML/]: Found 341 ObjectHolder annotations
+[03:58:00] [Server thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
+[03:58:01] [Server thread/INFO] [FML/]: Applying holder lookups
+[03:58:01] [Server thread/INFO] [FML/]: Holder lookups applied
+[03:58:01] [Server thread/INFO] [Minecraft/]: This server is running Cauldron-MCPC-Plus version git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98 (MC: 1.7.2) (Implementing API version 1.7.2-R0.4-SNAPSHOT)
+[03:58:01] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
+[03:58:01] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[03:58:02] [Server thread/INFO] [THAUMCRAFT/Thaumcraft]: Adding entities to MFR safari net blacklist.
+[03:58:02] [Server thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 5 mods
+[03:58:02] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
+[03:58:02] [Server thread/INFO] [FML/]: Applying holder lookups
+[03:58:02] [Server thread/INFO] [FML/]: Holder lookups applied
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKFLUXGOO with ID 165.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKFLUXGAS with ID 166.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKCUSTOMORE with ID 167.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKMAGICALLOG with ID 168.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKMAGICALLEAVES with ID 169.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKCUSTOMPLANT with ID 176.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKTAINT with ID 177.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKTAINTFIBRES with ID 178.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKCOSMETICOPAQUE with ID 179.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKCOSMETICSOLID with ID 180.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKCRYSTAL with ID 181.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKTUBE with ID 182.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKMETALDEVICE with ID 183.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKWOODENDEVICE with ID 184.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKSTONEDEVICE with ID 185.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKMIRROR with ID 186.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKTABLE with ID 187.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKCHESTHUNGRY with ID 188.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKARCANEDOOR with ID 189.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKLIFTER with ID 190.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKMAGICBOX with ID 191.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKJAR with ID 192.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKCANDLE with ID 193.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKAIRY with ID 194.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKMANAPOD with ID 195.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKARCANEFURNACE with ID 196.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKWARDED with ID 197.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge block material THAUMCRAFT_BLOCKHOLE with ID 198.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material BAUBLES_RING with ID 4096.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_WANDCASTING with ID 4097.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_WANDCAP with ID 4098.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_WANDROD with ID 4099.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_FOCUSPOUCH with ID 4100.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_FOCUSFIRE with ID 4101.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_FOCUSSHOCK with ID 4102.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_FOCUSHELLBAT with ID 4103.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_FOCUSFROST with ID 4104.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_FOCUSTRADE with ID 4105.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_FOCUSEXCAVATION with ID 4106.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_FOCUSPORTABLEHOLE with ID 4107.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_FOCUSPECH with ID 4108.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_FOCUSWARDING with ID 4109.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_FOCUSPRIMAL with ID 4110.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMESSENCE with ID 4111.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMMANABEAN with ID 4112.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMWISPESSENCE with ID 4113.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMRESOURCE with ID 4114.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMSHARD with ID 4115.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMRESEARCHNOTES with ID 4116.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMINKWELL with ID 4117.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMTHAUMONOMICON with ID 4118.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMTHAUMOMETER with ID 4119.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMGOGGLES with ID 4120.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMHELMETTHAUMIUM with ID 4121.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMCHESTPLATETHAUMIUM with ID 4122.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMLEGGINGSTHAUMIUM with ID 4123.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMBOOTSTHAUMIUM with ID 4124.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMSHOVELTHAUMIUM with ID 4125.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMPICKTHAUMIUM with ID 4126.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMAXETHAUMIUM with ID 4127.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMSWORDTHAUMIUM with ID 4128.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMHOETHAUMIUM with ID 4129.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMARCANEDOOR with ID 4130.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMNUGGET with ID 4131.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_BOOTSTRAVELLER with ID 4132.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMNUGGETCHICKEN with ID 4133.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMNUGGETBEEF with ID 4134.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMNUGGETPORK with ID 4135.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMNUGGETFISH with ID 4136.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_TRIPLEMEATTREAT with ID 4137.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMSWORDELEMENTAL with ID 4138.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMSHOVELELEMENTAL with ID 4139.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMPICKAXEELEMENTAL with ID 4140.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMAXEELEMENTAL with ID 4141.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMHOEELEMENTAL with ID 4142.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMCHESTPLATEROBE with ID 4143.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMLEGGINGSROBE with ID 4144.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMBOOTSROBE with ID 4145.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ARCANEDOORKEY with ID 4146.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_HANDMIRROR with ID 4147.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_HOVERHARNESS with ID 4148.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_BLOCKJARFILLEDITEM with ID 4149.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_BLOCKJARNODEITEM with ID 4150.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_TRUNKSPAWNER with ID 4151.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMGOLEMPLACER with ID 4152.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMGOLEMCORE with ID 4153.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMGOLEMUPGRADE with ID 4154.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_GOLEMBELL with ID 4155.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMGOLEMDECORATION with ID 4156.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMBOWBONE with ID 4157.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_PRIMALARROW with ID 4158.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMRESONATOR with ID 4159.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMBAUBLEBLANKS with ID 4160.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMAMULETRUNIC with ID 4161.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMRINGRUNIC with ID 4162.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMGIRDLERUNIC with ID 4163.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMAMULETVIS with ID 4164.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMGIRDLEHOVER with ID 4165.
+[03:58:02] [Server thread/INFO] [FML/]: Injected new Forge item material THAUMCRAFT_ITEMSPAWNEREGG with ID 4166.
+[03:58:04] [Server thread/INFO] [/]: Mapping loaded 13 packages, 9950 classes, 33878 fields, 68194 methods, flags 3ff6
+[03:58:04] [Server thread/INFO] [/]: Loaded inheritance map of 883 classes
+[03:58:06] [Server thread/ERROR] [Minecraft/]: Could not load 'plugins/【禁止物品】BanItem.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: java.lang.IllegalArgumentException: Plugin already initialized!
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:147) ~[JavaPluginLoader.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:314) ~[SimplePluginManager.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:236) [SimplePluginManager.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.loadPlugins(CraftServer.java:300) [CraftServer.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at net.minecraft.world.storage.SaveHandler.initBukkitData(SaveHandler.java:438) [axc.class:?]
+	at net.minecraft.world.storage.SaveHandler.func_75757_d(SaveHandler.java:136) [axc.class:?]
+	at net.minecraft.world.World.<init>(World.java:369) [afn.class:?]
+	at net.minecraft.world.WorldServer.<init>(WorldServer.java:152) [mj.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:336) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:309) [lj.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:607) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.7.0_141]
+Caused by: java.lang.IllegalArgumentException: Plugin already initialized!
+	at org.bukkit.plugin.java.PluginClassLoader.initialize(PluginClassLoader.java:484) ~[PluginClassLoader.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.java.JavaPlugin.<init>(JavaPlugin.java:59) ~[JavaPlugin.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at com.abcalvin.BanItem.PlayerListener.<init>(PlayerListener.java:19) ~[?:?]
+	at com.abcalvin.BanItem.main.<init>(main.java:20) ~[?:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.7.0_141]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57) ~[?:1.7.0_141]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.7.0_141]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526) ~[?:1.7.0_141]
+	at java.lang.Class.newInstance(Class.java:383) ~[?:1.7.0_141]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:203) ~[PluginClassLoader.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:143) ~[JavaPluginLoader.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	... 11 more
+Caused by: java.lang.IllegalStateException: Initial initialization
+	at org.bukkit.plugin.java.PluginClassLoader.initialize(PluginClassLoader.java:487) ~[PluginClassLoader.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.java.JavaPlugin.<init>(JavaPlugin.java:59) ~[JavaPlugin.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at com.abcalvin.BanItem.main.<init>(main.java:18) ~[?:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.7.0_141]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57) ~[?:1.7.0_141]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.7.0_141]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526) ~[?:1.7.0_141]
+	at java.lang.Class.newInstance(Class.java:383) ~[?:1.7.0_141]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:203) ~[PluginClassLoader.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:143) ~[JavaPluginLoader.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	... 11 more
+[03:58:06] [Server thread/INFO] [org.anjocaido.groupmanager.GroupManager/]: [GroupManager] Loading GroupManager v2.0 (2.12.1) (Phoenix)
+[03:58:06] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] Loading WorldEdit v5.5.8
+[03:58:06] [Server thread/INFO] [com.iCo6.iConomy/]: [iConomy] Loading iConomy v7.0
+[03:58:06] [Server thread/INFO] [com.jca2323.AutoPortForward.AutoPortForwardMain/]: [AutoPortForward] Loading AutoPortForward v4.0
+[03:58:06] [Server thread/INFO] [com.tigerhix.signs.Main/]: [TigerSigns] Loading TigerSigns v1.0.0
+[03:58:06] [Server thread/INFO] [org.yi.acru.bukkit.Lockette.Lockette/]: [Lockette] Loading Lockette v1.7.12
+[03:58:06] [Server thread/INFO] [net.milkbowl.vault.Vault/]: [Vault] Loading Vault v1.2.27-b349
+[03:58:06] [Server thread/INFO] [com.worldcretornica.plotme.PlotMe/]: [PlotMe] Loading PlotMe v0.13b
+[03:58:06] [Server thread/INFO] [com.gmail.nossr50.mcMMO/]: [mcMMO] Loading mcMMO v1.5.00-b3547
+[03:58:06] [Server thread/INFO] [me.itsatacoshop247.TreeAssist.TreeAssist/]: [TreeAssist] Loading TreeAssist v5.8.89
+[03:58:06] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Loading Essentials v2.12.2
+[03:58:06] [Server thread/INFO] [com.bekvon.bukkit.residence.ResidenceCommandListener/]: [Residence] Loading Residence v2.6.6.6
+[03:58:06] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Loading QuickShop v4.4
+[03:58:06] [Server thread/INFO] [com.earth2me.essentials.protect.EssentialsProtect/]: [EssentialsProtect] Loading EssentialsProtect v2.12.2
+[03:58:06] [Server thread/INFO] [uk.org.whoami.authme.AuthMe/]: [AuthMe] Loading AuthMe v2.7.8
+[03:58:06] [Server thread/INFO] [com.earth2me.essentials.spawn.EssentialsSpawn/]: [EssentialsSpawn] Loading EssentialsSpawn v2.12.2
+[03:58:06] [Server thread/INFO] [com.earth2me.essentials.chat.EssentialsChat/]: [EssentialsChat] Loading EssentialsChat v2.12.2
+[03:58:06] [Server thread/INFO] [com.earth2me.essentials.antibuild.EssentialsAntiBuild/]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.12.2
+[03:58:06] [Server thread/INFO] [/]: Adding biome mapping 192 Tainted Land at BiomeBase[192]
+[03:58:06] [Server thread/INFO] [/]: Adding biome mapping 193 Magical Forest at BiomeBase[193]
+[03:58:06] [Server thread/INFO] [/]: Adding biome mapping 194 Eerie at BiomeBase[194]
+[03:58:06] [Server thread/INFO] [net.milkbowl.vault.Vault/]: [Vault] Enabling Vault v1.2.27-b349
+[03:58:06] [Server thread/INFO] [Minecraft/]: [Vault][Economy] Essentials Economy found: Waiting
+[03:58:06] [Server thread/WARN] [Minecraft/]: iConomy - If you are using Flatfile storage be aware that versions 6, 7 and 8 have a CRITICAL bug which can wipe ALL iconomy data.
+[03:58:06] [Server thread/WARN] [Minecraft/]: if you're using Votifier, or any other plugin which handles economy data in a threaded manner your server is at risk!
+[03:58:06] [Server thread/WARN] [Minecraft/]: it is highly suggested to use SQL with iCo6 or to use an alternative economy plugin!
+[03:58:06] [Server thread/INFO] [Minecraft/]: [Vault][Economy] iConomy 6 found: Waiting
+[03:58:06] [Server thread/INFO] [Minecraft/]: [Vault][Permission] GroupManager found: Waiting
+[03:58:06] [Server thread/INFO] [Minecraft/]: [Vault][Permission] SuperPermissions loaded as backup permission system.
+[03:58:07] [Server thread/INFO] [Minecraft/]: [Vault][Chat] GroupManager found: Waiting
+[03:58:07] [Server thread/INFO] [Minecraft/]: [Vault] Enabled Version 1.2.27-b349
+[03:58:07] [Server thread/INFO] [com.worldcretornica.plotme.PlotMe/]: [PlotMe] Enabling PlotMe v0.13b
+[03:58:07] [Server thread/INFO] [Minecraft/]: §9[PlotMe] §r 0 plots loaded
+[03:58:07] [Server thread/INFO] [com.gmail.nossr50.mcMMO/]: [mcMMO] Enabling mcMMO v1.5.00-b3547
+[03:58:09] [Server thread/INFO] [FML/]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@4e7ad716)
+[03:58:09] [Server thread/INFO] [FML/]: Loading dimension 1 (DIM1) (net.minecraft.server.dedicated.DedicatedServer@4e7ad716)
+[03:58:09] [Server thread/INFO] [FML/]: Loading dimension -1 (DIM-1) (net.minecraft.server.dedicated.DedicatedServer@4e7ad716)
+[03:58:10] [Server thread/INFO] [org.anjocaido.groupmanager.GroupManager/]: [GroupManager] Enabling GroupManager v2.0 (2.12.1) (Phoenix)
+[03:58:10] [Server thread/INFO] [/]: GroupManager - INFO - World Found: world
+[03:58:10] [Server thread/INFO] [/]: GroupManager - INFO - Superperms support enabled.
+[03:58:10] [Server thread/INFO] [/]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[03:58:10] [Server thread/INFO] [/]: GroupManager - INFO - Backups will be retained for 24 hours!
+[03:58:10] [Server thread/INFO] [/]: GroupManager version 2.0 (2.12.1) (Phoenix) is enabled!
+[03:58:10] [Server thread/INFO] [Minecraft/]: [Vault][Permission] GroupManager hooked.
+[03:58:10] [Server thread/INFO] [Minecraft/]: [Vault][Chat] GroupManager - Chat hooked.
+[03:58:10] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] Enabling WorldEdit v5.5.8
+[03:58:10] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[03:58:11] [Server thread/INFO] [com.iCo6.iConomy/]: [iConomy] Enabling iConomy v7.0
+[03:58:11] [Server thread/INFO] [/]: [iConomy - April Fools] Enabled (21 ms)
+[03:58:11] [Server thread/INFO] [/]: [iConomy] Hello, I'm Nijikokun. Yes, this is an April Fools joke, but '/money top' was fixed! Enjoy :) - Rare Version!
+[03:58:11] [Server thread/INFO] [Minecraft/]: [Vault][Economy] iConomy 7 hooked.
+[03:58:11] [Server thread/INFO] [com.jca2323.AutoPortForward.AutoPortForwardMain/]: [AutoPortForward] Enabling AutoPortForward v4.0
+[03:58:11] [Server thread/INFO] [Minecraft/]: [AutoPortForward] AutoPortForward by jca2323 version 1.4 loaded
+[03:58:11] [Server thread/INFO] [Minecraft/]: [AutoPortForward] Forwarding port: 25565
+[03:58:11] [Thread-10/INFO] [/]: [iConomy - April Fools] Purged accounts with default balance.
+[03:58:17] [Server thread/WARN] [Minecraft/]: [AutoPortForward] Failed to find a device, disabling.
+[03:58:17] [Server thread/INFO] [com.jca2323.AutoPortForward.AutoPortForwardMain/]: [AutoPortForward] Disabling AutoPortForward v4.0
+[03:58:17] [Server thread/INFO] [Minecraft/]: [AutoPortForward] AutoPortForward disabled.
+[03:58:17] [Server thread/INFO] [com.tigerhix.signs.Main/]: [TigerSigns] Enabling TigerSigns v1.0.0
+[03:58:17] [Server thread/INFO] [org.yi.acru.bukkit.Lockette.Lockette/]: [Lockette] Enabling Lockette v1.7.12
+[03:58:17] [Server thread/INFO] [Minecraft/]: [Lockette] Version 1.7.12 is being enabled!  Yay!  (Core version 1.3.7)
+[03:58:17] [Server thread/WARN] [Minecraft/]: [Lockette] Craftbukkit build unrecognized, please be sure you have build [2771] or greater.
+[03:58:17] [Server thread/INFO] [Minecraft/]: [Lockette] Custom lockable block list: [116, 84, 57, 145, 154]
+[03:58:17] [Server thread/INFO] [Minecraft/]: [Lockette] Ignoring linked plugins: [mcMMO]
+[03:58:17] [Server thread/INFO] [Minecraft/]: [Lockette] Loading strings file for English by Acru
+[03:58:17] [Server thread/INFO] [Minecraft/]: [Lockette] Enabled link to plugin GroupManager for Groups, version 2.0 (2.12.1) (Phoenix)
+[03:58:17] [Server thread/INFO] [Minecraft/]: [Lockette] Enabled link to plugin mcMMO for Groups, version 1.5.00-b3547
+[03:58:17] [Server thread/INFO] [Minecraft/]: [Lockette] Using ops file for admin permissions.
+[03:58:17] [Server thread/INFO] [Minecraft/]: [Lockette] Ready to protect your containers.
+[03:58:17] [Server thread/INFO] [me.itsatacoshop247.TreeAssist.TreeAssist/]: [TreeAssist] Enabling TreeAssist v5.8.89
+[03:58:17] [Server thread/INFO] [me.itsatacoshop247.TreeAssist.TreeAssist/]: [TreeAssist] debugging: off
+[03:58:17] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Enabling Essentials v2.12.2
+[03:58:17] [Server thread/INFO] [Minecraft/]: Bukkit version format changed. Version not checked.
+[03:58:17] [Server thread/INFO] [Minecraft/]: git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98 (MC: 1.7.2)
+[03:58:17] [Server thread/INFO] [Minecraft/]: 1.7.2-R0.4-SNAPSHOT
+[03:58:17] [Server thread/INFO] [Minecraft/]: Using locale zh
+[03:58:17] [Server thread/INFO] [Minecraft/]: Using locale zh
+[03:58:17] [Server thread/INFO] [Minecraft/]: [Vault][Economy] Essentials Economy hooked.
+[03:58:17] [Server thread/INFO] [Minecraft/]: Essentials: Using GroupManager based permissions.
+[03:58:17] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Payment method found (Vault - Economy: iConomy 7 version: 1.2.27-b349)
+[03:58:17] [Server thread/INFO] [com.bekvon.bukkit.residence.ResidenceCommandListener/]: [Residence] Enabling Residence v2.6.6.6
+[03:58:18] [Server thread/INFO] [Minecraft/]: [Residence] Found Vault using permissions plugin:GroupManager
+[03:58:18] [Server thread/INFO] [/]: [Residence] Scanning for economy systems...
+[03:58:18] [Server thread/INFO] [/]: [Residence] Found Vault using economy system: iConomy 7
+[03:58:18] [Server thread/INFO] [Minecraft/]: [Residence] Found WorldEdit
+[03:58:18] [Server thread/INFO] [Minecraft/]: [Residence] Enabled! Version 2.6.6.6 by bekvon
+[03:58:18] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Enabling QuickShop v4.4
+[03:58:18] [Server thread/ERROR] [Minecraft/]: Cannot load plugins/QuickShop/messages.yml
+org.bukkit.configuration.InvalidConfigurationException: unacceptable character '�' (0xFFFD) special characters are not allowed
+in "<string>", position 173
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55) ~[YamlConfiguration.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:149) ~[FileConfiguration.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:114) ~[FileConfiguration.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(YamlConfiguration.java:176) [YamlConfiguration.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.maxgamer.QuickShop.Util.MsgUtil.loadCfgMessages(MsgUtil.java:43) [【快捷商店】QuickShop.jar:?]
+	at org.maxgamer.QuickShop.QuickShop.reloadConfig(QuickShop.java:344) [【快捷商店】QuickShop.jar:?]
+	at org.maxgamer.QuickShop.QuickShop.onEnable(QuickShop.java:107) [【快捷商店】QuickShop.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:250) [JavaPlugin.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:360) [JavaPluginLoader.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:390) [SimplePluginManager.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.loadPlugin(CraftServer.java:393) [CraftServer.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.enablePlugins(CraftServer.java:329) [CraftServer.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at net.minecraft.server.MinecraftServer.func_71243_i(MinecraftServer.java:499) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71222_d(MinecraftServer.java:475) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:418) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:309) [lj.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:607) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.7.0_141]
+Caused by: org.yaml.snakeyaml.reader.ReaderException: special characters are not allowed
+	at org.yaml.snakeyaml.reader.StreamReader.checkPrintable(StreamReader.java:70) ~[StreamReader.class:?]
+	at org.yaml.snakeyaml.reader.StreamReader.<init>(StreamReader.java:50) ~[StreamReader.class:?]
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:399) ~[Yaml.class:?]
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:53) ~[YamlConfiguration.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	... 17 more
+[03:58:18] [Server thread/ERROR] [Minecraft/]: Cannot load configuration from stream
+org.bukkit.configuration.InvalidConfigurationException: unacceptable character '�' (0xFFFD) special characters are not allowed
+in "<string>", position 173
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55) ~[YamlConfiguration.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:149) ~[FileConfiguration.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(YamlConfiguration.java:204) [YamlConfiguration.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.maxgamer.QuickShop.Util.MsgUtil.loadCfgMessages(MsgUtil.java:48) [【快捷商店】QuickShop.jar:?]
+	at org.maxgamer.QuickShop.QuickShop.reloadConfig(QuickShop.java:344) [【快捷商店】QuickShop.jar:?]
+	at org.maxgamer.QuickShop.QuickShop.onEnable(QuickShop.java:107) [【快捷商店】QuickShop.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:250) [JavaPlugin.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:360) [JavaPluginLoader.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:390) [SimplePluginManager.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.loadPlugin(CraftServer.java:393) [CraftServer.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.enablePlugins(CraftServer.java:329) [CraftServer.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	at net.minecraft.server.MinecraftServer.func_71243_i(MinecraftServer.java:499) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71222_d(MinecraftServer.java:475) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:418) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:309) [lj.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:607) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.7.0_141]
+Caused by: org.yaml.snakeyaml.reader.ReaderException: special characters are not allowed
+	at org.yaml.snakeyaml.reader.StreamReader.checkPrintable(StreamReader.java:70) ~[StreamReader.class:?]
+	at org.yaml.snakeyaml.reader.StreamReader.<init>(StreamReader.java:50) ~[StreamReader.class:?]
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:399) ~[Yaml.class:?]
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:53) ~[YamlConfiguration.class:git-Cauldron-MCPC-Plus-1.7.2-1.1147.04.98]
+	... 16 more
+[03:58:18] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Hooking Vault
+[03:58:18] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Starting item scheduler
+[03:58:18] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Limit cfg found...
+[03:58:18] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Limits.use: true
+[03:58:18] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] {quickshop.vip=60, quickshop=0}
+[03:58:18] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Loading shops from database...
+[03:58:18] [Server thread/WARN] [/]: java.lang.NoSuchMethodException: net.minecraft.entity.item.EntityItem.d()
+[03:58:18] [Server thread/WARN] [/]: 	at java.lang.Class.getMethod(Class.java:1678)
+[03:58:18] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Util.NMS.protect(NMS.java:364)
+[03:58:18] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Util.NMS.safeGuard(NMS.java:313)
+[03:58:18] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Shop.DisplayItem.spawn(DisplayItem.java:49)
+[03:58:18] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Shop.ContainerShop.checkDisplay(ContainerShop.java:594)
+[03:58:18] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Shop.ContainerShop.onLoad(ContainerShop.java:616)
+[03:58:18] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.QuickShop.onEnable(QuickShop.java:241)
+[03:58:18] [Server thread/WARN] [/]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:250)
+[03:58:18] [Server thread/WARN] [/]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:360)
+[03:58:18] [Server thread/WARN] [/]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:390)
+[03:58:18] [Server thread/WARN] [/]: 	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.loadPlugin(CraftServer.java:393)
+[03:58:18] [Server thread/WARN] [/]: 	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.enablePlugins(CraftServer.java:329)
+[03:58:18] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71243_i(MinecraftServer.java:499)
+[03:58:18] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71222_d(MinecraftServer.java:475)
+[03:58:18] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:418)
+[03:58:18] [Server thread/WARN] [/]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:309)
+[03:58:18] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:607)
+[03:58:18] [Server thread/WARN] [/]: 	at java.lang.Thread.run(Thread.java:748)
+[03:58:18] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Loaded 1 shops.
+[03:58:18] [Server thread/INFO] [/]: Cleaning purchase messages from database that are over a week old...
+[03:58:18] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Registering Listeners
+[03:58:18] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] Metrics started.
+[03:58:18] [Server thread/INFO] [org.maxgamer.QuickShop.QuickShop/]: [QuickShop] QuickShop loaded!
+[03:58:18] [Server thread/INFO] [com.earth2me.essentials.protect.EssentialsProtect/]: [EssentialsProtect] Enabling EssentialsProtect v2.12.2
+[03:58:18] [Server thread/INFO] [uk.org.whoami.authme.AuthMe/]: [AuthMe] Enabling AuthMe v2.7.8
+[03:58:18] [Server thread/INFO] [uk.org.whoami.authme.AuthMe/]: [AuthMe] Loading Configuration File...
+[03:58:18] [Server thread/INFO] [uk.org.whoami.authme.AuthMe/]: [AuthMe] Merge new Config Options if needed..
+[03:58:18] [Server thread/INFO] [Minecraft/]: [AuthMe] Set Language: en
+[03:58:19] [Server thread/INFO] [Minecraft/]: [AuthMe] Authme 2.7.8 enabled
+[03:58:19] [Server thread/INFO] [com.earth2me.essentials.spawn.EssentialsSpawn/]: [EssentialsSpawn] Enabling EssentialsSpawn v2.12.2
+[03:58:19] [Server thread/INFO] [com.earth2me.essentials.chat.EssentialsChat/]: [EssentialsChat] Enabling EssentialsChat v2.12.2
+[03:58:19] [Server thread/INFO] [com.earth2me.essentials.antibuild.EssentialsAntiBuild/]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.12.2
+[03:58:19] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[03:58:19] [Server thread/INFO] [/]: GroupManager - INFO - Bukkit Permissions Updated!
+[03:58:19] [Craft Scheduler Thread - 0/WARN] [/]: [Fatal Error] :1:1: Premature end of file.
+
+[04:00:30] [Server thread/INFO] [/]: CONSOLE: Forcing save..[m
+[04:00:30] [Server thread/INFO] [/]: CONSOLE: Save complete.[m
+[04:02:52] [Netty IO #3/INFO] [FML/]: Client protocol version 1
+[04:02:52] [Netty IO #3/INFO] [FML/]: Client attempting to join with 8 mods : mcp@9.03,FML@7.2.211.1121,NotEnoughItems@1.0.2.34,Forge@10.12.2.1121,CodeChickenCore@1.0.2.12,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[04:02:52] [Netty IO #3/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[04:03:14] [Netty IO #0/INFO] [FML/]: Client protocol version 1
+[04:03:14] [Netty IO #0/INFO] [FML/]: Client attempting to join with 8 mods : mcp@9.03,FML@7.2.211.1121,NotEnoughItems@1.0.2.34,Forge@10.12.2.1121,CodeChickenCore@1.0.2.12,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[04:03:14] [Netty IO #0/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[04:03:30] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[04:03:48] [Server thread/WARN] [/]: java.lang.NoSuchMethodException: net.minecraft.entity.item.EntityItem.d()
+[04:03:48] [Server thread/WARN] [/]: 	at java.lang.Class.getMethod(Class.java:1678)
+[04:03:48] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Util.NMS.protect(NMS.java:364)
+[04:03:48] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Util.NMS.safeGuard(NMS.java:313)
+[04:03:48] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Shop.DisplayItem.spawn(DisplayItem.java:49)
+[04:03:48] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Shop.DisplayItem.respawn(DisplayItem.java:62)
+[04:03:48] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Shop.ContainerShop.checkDisplay(ContainerShop.java:601)
+[04:03:48] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Shop.ContainerShop.isValid(ContainerShop.java:563)
+[04:03:48] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Watcher.ItemWatcher.run(ItemWatcher.java:42)
+[04:03:48] [Server thread/WARN] [/]: 	at org.bukkit.craftbukkit.v1_7_R1.scheduler.CraftTask.run(CraftTask.java:58)
+[04:03:48] [Server thread/WARN] [/]: 	at org.bukkit.craftbukkit.v1_7_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+[04:03:48] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:843)
+[04:03:48] [Server thread/WARN] [/]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:432)
+[04:03:48] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:783)
+[04:03:48] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:646)
+[04:03:48] [Server thread/WARN] [/]: 	at java.lang.Thread.run(Thread.java:748)
+[04:05:09] [Server thread/INFO] [Minecraft/]: [AuthMe] §2WanSan§r logged in!
+[04:08:10] [pool-4-thread-1/INFO] [/]: GroupManager - INFO -  Data files refreshed.
+[08:32:57] [Netty IO #1/INFO] [FML/]: Client protocol version 1
+[08:32:57] [Netty IO #1/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[08:32:57] [Netty IO #1/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[08:32:58] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[08:33:14] [Server thread/INFO] [Minecraft/]: [AuthMe] §2Mshuai§r logged in!
+[08:33:21] [Server thread/WARN] [/]: java.lang.NoSuchMethodException: net.minecraft.entity.item.EntityItem.d()
+[08:33:21] [Server thread/WARN] [/]: 	at java.lang.Class.getMethod(Class.java:1678)
+[08:33:21] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Util.NMS.protect(NMS.java:364)
+[08:33:21] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Util.NMS.safeGuard(NMS.java:313)
+[08:33:21] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Shop.DisplayItem.spawn(DisplayItem.java:49)
+[08:33:21] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Shop.DisplayItem.respawn(DisplayItem.java:62)
+[08:33:21] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Shop.ContainerShop.checkDisplay(ContainerShop.java:601)
+[08:33:21] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Shop.ContainerShop.isValid(ContainerShop.java:563)
+[08:33:21] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Watcher.ItemWatcher.run(ItemWatcher.java:42)
+[08:33:21] [Server thread/WARN] [/]: 	at org.bukkit.craftbukkit.v1_7_R1.scheduler.CraftTask.run(CraftTask.java:58)
+[08:33:21] [Server thread/WARN] [/]: 	at org.bukkit.craftbukkit.v1_7_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+[08:33:21] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:843)
+[08:33:21] [Server thread/WARN] [/]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:432)
+[08:33:21] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:783)
+[08:33:21] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:646)
+[08:33:21] [Server thread/WARN] [/]: 	at java.lang.Thread.run(Thread.java:748)
+[08:34:53] [Server thread/INFO] [/]: Mshuai: Forcing save..[m
+[08:34:53] [Server thread/INFO] [/]: Mshuai: Save complete.[m
+[08:37:24] [Netty IO #3/INFO] [FML/]: Client protocol version 1
+[08:37:24] [Netty IO #3/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[08:37:24] [Netty IO #3/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[08:37:26] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[08:37:34] [Server thread/INFO] [Minecraft/]: [AuthMe] §2coldwinter§r logged in!
+[08:37:51] [Server thread/WARN] [/]: java.lang.NoSuchMethodException: net.minecraft.entity.item.EntityItem.d()
+[08:37:51] [Server thread/WARN] [/]: 	at java.lang.Class.getMethod(Class.java:1678)
+[08:37:51] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Util.NMS.protect(NMS.java:364)
+[08:37:51] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Util.NMS.safeGuard(NMS.java:313)
+[08:37:51] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Shop.DisplayItem.spawn(DisplayItem.java:49)
+[08:37:51] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Shop.DisplayItem.respawn(DisplayItem.java:62)
+[08:37:51] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Shop.ContainerShop.checkDisplay(ContainerShop.java:601)
+[08:37:51] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Shop.ContainerShop.isValid(ContainerShop.java:563)
+[08:37:51] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Watcher.ItemWatcher.run(ItemWatcher.java:42)
+[08:37:51] [Server thread/WARN] [/]: 	at org.bukkit.craftbukkit.v1_7_R1.scheduler.CraftTask.run(CraftTask.java:58)
+[08:37:51] [Server thread/WARN] [/]: 	at org.bukkit.craftbukkit.v1_7_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+[08:37:51] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:843)
+[08:37:51] [Server thread/WARN] [/]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:432)
+[08:37:51] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:783)
+[08:37:51] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:646)
+[08:37:51] [Server thread/WARN] [/]: 	at java.lang.Thread.run(Thread.java:748)
+[08:38:10] [pool-4-thread-1/INFO] [/]: GroupManager - INFO -  Data files refreshed.
+[08:42:21] [Server thread/WARN] [/]: java.lang.NoSuchMethodException: net.minecraft.entity.item.EntityItem.d()
+[08:42:21] [Server thread/WARN] [/]: 	at java.lang.Class.getMethod(Class.java:1678)
+[08:42:21] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Util.NMS.protect(NMS.java:364)
+[08:42:21] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Util.NMS.safeGuard(NMS.java:313)
+[08:42:21] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Shop.DisplayItem.spawn(DisplayItem.java:49)
+[08:42:21] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Shop.DisplayItem.respawn(DisplayItem.java:62)
+[08:42:21] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Shop.ContainerShop.checkDisplay(ContainerShop.java:601)
+[08:42:21] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Shop.ContainerShop.isValid(ContainerShop.java:563)
+[08:42:21] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Watcher.ItemWatcher.run(ItemWatcher.java:42)
+[08:42:21] [Server thread/WARN] [/]: 	at org.bukkit.craftbukkit.v1_7_R1.scheduler.CraftTask.run(CraftTask.java:58)
+[08:42:21] [Server thread/WARN] [/]: 	at org.bukkit.craftbukkit.v1_7_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+[08:42:21] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:843)
+[08:42:21] [Server thread/WARN] [/]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:432)
+[08:42:21] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:783)
+[08:42:21] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:646)
+[08:42:21] [Server thread/WARN] [/]: 	at java.lang.Thread.run(Thread.java:748)
+[08:44:12] [Server thread/INFO] [/]: coldwinter: Forcing save..[m
+[08:44:12] [Server thread/INFO] [/]: coldwinter: Save complete.[m
+[09:58:21] [Craft Scheduler Thread - 154/WARN] [/]: [Fatal Error] :1:1: Premature end of file.
+
+[10:02:03] [Netty IO #1/INFO] [FML/]: Client protocol version 1
+[10:02:03] [Netty IO #1/INFO] [FML/]: Client attempting to join with 6 mods : mcp@9.03,FML@7.2.211.1121,Forge@10.12.2.1121,Baubles@1.0.0.13,Thaumcraft@4.1.1.14,voxelmap@1.7.2
+[10:02:03] [Netty IO #1/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[10:02:04] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[10:02:21] [Server thread/WARN] [/]: java.lang.NoSuchMethodException: net.minecraft.entity.item.EntityItem.d()
+[10:02:21] [Server thread/WARN] [/]: 	at java.lang.Class.getMethod(Class.java:1678)
+[10:02:21] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Util.NMS.protect(NMS.java:364)
+[10:02:21] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Util.NMS.safeGuard(NMS.java:313)
+[10:02:21] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Shop.DisplayItem.spawn(DisplayItem.java:49)
+[10:02:21] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Shop.DisplayItem.respawn(DisplayItem.java:62)
+[10:02:21] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Shop.ContainerShop.checkDisplay(ContainerShop.java:601)
+[10:02:21] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Shop.ContainerShop.isValid(ContainerShop.java:563)
+[10:02:21] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Watcher.ItemWatcher.run(ItemWatcher.java:42)
+[10:02:21] [Server thread/WARN] [/]: 	at org.bukkit.craftbukkit.v1_7_R1.scheduler.CraftTask.run(CraftTask.java:58)
+[10:02:21] [Server thread/WARN] [/]: 	at org.bukkit.craftbukkit.v1_7_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+[10:02:21] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:843)
+[10:02:21] [Server thread/WARN] [/]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:432)
+[10:02:21] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:783)
+[10:02:21] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:646)
+[10:02:21] [Server thread/WARN] [/]: 	at java.lang.Thread.run(Thread.java:748)
+[10:02:22] [Server thread/INFO] [Minecraft/]: [AuthMe] §2gorilla§r logged in!
+[10:06:51] [Server thread/WARN] [/]: java.lang.NoSuchMethodException: net.minecraft.entity.item.EntityItem.d()
+[10:06:51] [Server thread/WARN] [/]: 	at java.lang.Class.getMethod(Class.java:1678)
+[10:06:51] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Util.NMS.protect(NMS.java:364)
+[10:06:51] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Util.NMS.safeGuard(NMS.java:313)
+[10:06:51] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Shop.DisplayItem.spawn(DisplayItem.java:49)
+[10:06:51] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Shop.DisplayItem.respawn(DisplayItem.java:62)
+[10:06:51] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Shop.ContainerShop.checkDisplay(ContainerShop.java:601)
+[10:06:51] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Shop.ContainerShop.isValid(ContainerShop.java:563)
+[10:06:51] [Server thread/WARN] [/]: 	at org.maxgamer.QuickShop.Watcher.ItemWatcher.run(ItemWatcher.java:42)
+[10:06:51] [Server thread/WARN] [/]: 	at org.bukkit.craftbukkit.v1_7_R1.scheduler.CraftTask.run(CraftTask.java:58)
+[10:06:51] [Server thread/WARN] [/]: 	at org.bukkit.craftbukkit.v1_7_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+[10:06:51] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:843)
+[10:06:51] [Server thread/WARN] [/]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:432)
+[10:06:51] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:783)
+[10:06:51] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:646)
+[10:06:51] [Server thread/WARN] [/]: 	at java.lang.Thread.run(Thread.java:748)
